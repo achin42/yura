@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="10px" height="18px" viewBox="0 0 10 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>Path</title>
+    <desc>Created with Sketch.</desc>
+    <g id="C-Flow-Control-panel" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-18" transform="translate(-112.000000, -15.000000)" fill="#000000" fill-rule="nonzero">
+            <g id="Group-26">
+                <path d="M112,27 L114,27 C114,28.08 115.37,29 117,29 C118.63,29 120,28.08 120,27 C120,25.9 118.96,25.5 116.76,24.97 C114.64,24.44 112,23.78 112,21 C112,19.21 113.47,17.69 115.5,17.18 L115.5,15 L118.5,15 L118.5,17.18 C120.53,17.69 122,19.21 122,21 L120,21 C120,19.92 118.63,19 117,19 C115.37,19 114,19.92 114,21 C114,22.1 115.04,22.5 117.24,23.03 C119.36,23.56 122,24.22 122,27 C122,28.79 120.53,30.31 118.5,30.82 L118.5,33 L115.5,33 L115.5,30.82 C113.47,30.31 112,28.79 112,27 Z" id="Path"></path>
+            </g>
+        </g>
+    </g>
+</svg>

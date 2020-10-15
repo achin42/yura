@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>Shape</title>
+    <desc>Created with Sketch.</desc>
+    <g id="C-Flow-Control-panel" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-18" transform="translate(-171.000000, -16.000000)" fill="#000000" fill-rule="nonzero">
+            <g id="Group-26">
+                <path d="M178.624,16 C178.624,17.92 180.2,19.48 182.104,19.48 L183.528,19.48 L183.528,20.84 C183.528,22.76 185.08,24.312 187,24.32 L187,16.672 C187,16.3008646 186.699135,16 186.328,16 L178.624,16 M174.816,19.84 C174.824,21.752 176.376,23.304 178.288,23.312 L179.728,23.312 L179.728,24.688 C179.736,26.6 181.288,28.152 183.2,28.16 L183.2,20.504 C183.192,20.136 182.904,19.848 182.536,19.84 L174.816,19.84 M171,23.68 C171,25.6 172.56,27.152 174.48,27.152 L175.904,27.152 L175.904,28.528 C175.912,30.44 177.464,32 179.376,32 L179.376,24.344 C179.376,23.9728646 179.075135,23.672 178.704,23.672 L171,23.68 Z" id="Shape"></path>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="180px" height="24px" viewBox="0 0 180 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 27</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <radialGradient cx="50.0135415%" cy="54.714503%" fx="50.0135415%" fy="54.714503%" r="71.7289698%" gradientTransform="translate(0.500135,0.547145),scale(0.924313,1.000000),translate(-0.500135,-0.547145)" id="radialGradient-1">
+            <stop stop-color="#FFB900" offset="0%"></stop>
+            <stop stop-color="#F95D8F" offset="60%"></stop>
+            <stop stop-color="#F95353" offset="99.9%"></stop>
+        </radialGradient>
+        <linearGradient x1="98.031%" y1="-0.427531913%" x2="58.888%" y2="40.6569588%" id="linearGradient-2">
+            <stop stop-color="#0052CC" offset="18%"></stop>
+            <stop stop-color="#2684FF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="100.665%" y1="-0.130810523%" x2="55.402%" y2="44.6646531%" id="linearGradient-3">
+            <stop stop-color="#0052CC" offset="18%"></stop>
+            <stop stop-color="#2684FF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-4">
+            <stop stop-color="#0091E6" offset="0%"></stop>
+            <stop stop-color="#0079BF" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="C-Flow-Control-panel" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="currency-selector" transform="translate(-58.000000, -128.000000)" fill-rule="nonzero">
+            <g id="Group-27" transform="translate(58.000000, 128.000000)">
+                <g id="asana-logo" transform="translate(76.000000, 0.000000)" fill="url(#radialGradient-1)">
+                    <path d="M19.5727453,12.2334222 C16.5695481,12.2334222 14.13541,14.6675602 14.13541,17.6702283 C14.13541,20.6731873 16.5695481,23.1078281 19.5727453,23.1078281 C22.5754398,23.1078281 25.0095513,20.6731873 25.0095513,17.6702283 C25.0095513,14.6675602 22.5754398,12.2334222 19.5727453,12.2334222 Z M5.446622,12.2336868 C2.44392751,12.2339514 0.00955134603,14.6675602 0.00955134603,17.6704928 C0.00955134603,20.6731873 2.44392751,23.1075635 5.446622,23.1075635 C8.44955461,23.1075635 10.8839572,20.6731873 10.8839572,17.6704928 C10.8839572,14.6675338 8.44955461,12.2336868 5.44635742,12.2336868 L5.446622,12.2336868 Z M17.9466352,5.43707065 C17.9466352,8.43976514 15.5125236,10.8746705 12.5098292,10.8746705 C9.50663197,10.8746705 7.07249392,8.43976514 7.07249392,5.43707065 C7.07249392,2.43437617 9.50663197,0 12.5098027,0 C15.5124972,0 17.9463706,2.43437617 17.9463706,5.43707065 L17.9466352,5.43707065 Z" id="Shape"></path>
+                </g>
+                <g id="jira-1" transform="translate(0.000000, 2.000000)">
+                    <g id="Group-28">
+                        <path d="M20.1227382,-3.37507799e-14 L10.0102106,-3.37507799e-14 C10.0102106,2.5211538 12.0540095,4.56495277 14.5751633,4.56495277 L16.4380082,4.56495277 L16.4380082,6.36356159 C16.4396531,8.88241998 18.4811416,10.9239907 21,10.9256357 L21,0.877261832 C21,0.392900785 20.607346,-3.37507799e-14 20.1227382,-3.37507799e-14 Z" id="Path" fill="#2684FF"></path>
+                        <path d="M15.1190722,5.03870376 L5.00662687,5.03870376 C5.00818959,7.55756216 7.04967806,9.59913287 9.5686187,9.60077784 L11.4314636,9.60077784 L11.4314636,11.4051441 C11.4346712,13.9240024 13.4775579,15.9641749 15.9964163,15.9641749 L15.9964163,5.91613009 C15.9964163,5.43160455 15.6035978,5.03878601 15.1190722,5.03878601 L15.1190722,5.03870376 Z" id="Path" fill="url(#linearGradient-2)"></path>
+                        <path d="M10.1125276,10.0745288 L-9.68114477e-14,10.0745288 C-9.68114477e-14,12.5956902 2.04387367,14.6394816 4.56495277,14.6394816 L6.43363726,14.6394816 L6.43363726,16.4380082 C6.43528223,18.9545636 8.47323401,20.9952296 10.9898717,21 L10.9898717,10.9518729 C10.9898717,10.4673474 10.5970532,10.0745288 10.1125276,10.0745288 Z" id="Path" fill="url(#linearGradient-3)"></path>
+                    </g>
+                </g>
+                <g id="trello" transform="translate(157.000000, 1.000000)">
+                    <rect id="Rectangle" fill="url(#linearGradient-4)" x="0" y="0" width="23" height="23" rx="2.24609375"></rect>
+                    <rect id="Rectangle" fill="#FFFFFF" x="12.995" y="2.99" width="7.015" height="10.0625" rx="1.078125"></rect>
+                    <rect id="Rectangle" fill="#FFFFFF" x="2.99" y="2.99" width="7.015" height="15.8125" rx="1.078125"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

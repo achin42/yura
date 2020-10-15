@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="14px" height="16px" viewBox="0 0 14 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>stamper</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Signing-Flow" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="08-Signing-Flow-05-Client-tnc" transform="translate(-1315.000000, -34.000000)" fill="#0034DA" fill-rule="nonzero">
+            <g id="Group-4" transform="translate(1304.000000, 27.000000)">
+                <g id="stamper" transform="translate(11.000000, 7.000000)">
+                    <path d="M7,0 C5.55025253,0 4.375,1.17525253 4.375,2.625 C4.375,5.25 8.75,8.75 1.75,8.75 C0.783501688,8.75 0,9.53350169 0,10.5 L0,12.25 L14,12.25 L14,10.5 C14,9.53350169 13.2164983,8.75 12.25,8.75 C5.25,8.75 9.625,5.25 9.625,2.625 C9.625,0.875 8.4525,0 7,0 M1.75,14 L1.75,15.75 L12.25,15.75 L12.25,14 L1.75,14 Z" id="Shape"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

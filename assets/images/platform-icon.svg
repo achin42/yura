@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="108px" height="102px" viewBox="0 0 108 102" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>toy-brick-outline</title>
+    <desc>Created with Sketch.</desc>
+    <g id="C-Flow-Control-panel" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.042731">
+        <g id="currency-selector" transform="translate(-181.000000, -8.000000)" fill="#2E5BFF" fill-rule="nonzero">
+            <g id="toy-brick-outline" transform="translate(181.000000, 8.000000)">
+                <path d="M96,18 L96,12 C96,5.372583 90.627417,0 84,0 L72,0 C65.372583,0 60,5.372583 60,12 L60,18 L48,18 L48,12 C48,5.372583 42.627417,0 36,0 L24,0 C17.372583,0 12,5.372583 12,12 L12,18 L0,18 L0,102 L108,102 L108,18 M96,90 L12,90 L12,30 L96,30 L96,90 Z" id="Shape"></path>
+            </g>
+        </g>
+    </g>
+</svg>

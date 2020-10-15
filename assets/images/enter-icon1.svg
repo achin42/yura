@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="30px" height="20px" viewBox="0 0 30 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group 2</title>
+    <defs>
+        <polygon id="path-1" points="17.3333333 4.68055556 4.21296296 4.68055556 7.52777778 1.43958333 6.22222222 0.166666667 0.666666667 5.58333333 6.22222222 11 7.52777778 9.72708333 4.21296296 6.48611111 17.3333333 6.48611111"></polygon>
+    </defs>
+    <g id="User-Onboarding" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="04-Onboarding---01-SignUp-step-1" transform="translate(-1189.000000, -436.000000)">
+            <g id="Group-3" transform="translate(864.000000, 260.000000)">
+                <g id="Group-14" transform="translate(1.000000, 141.000000)">
+                    <g id="Group-2" transform="translate(324.000000, 35.000000)">
+                        <rect id="Rectangle" fill="#EA288B" x="0" y="0" width="30" height="20" rx="3"></rect>
+                        <g id="icons/ic/add" transform="translate(15.000000, 10.000000) scale(-1, 1) translate(-15.000000, -10.000000) translate(6.000000, 4.500000)">
+                            <mask id="mask-2" fill="white">
+                                <use xlink:href="#path-1"></use>
+                            </mask>
+                            <use id="icons/icoutline-keyboard_backspace-24px" fill="#FFFFFF" xlink:href="#path-1"></use>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

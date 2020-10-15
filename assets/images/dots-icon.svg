@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="4px" viewBox="0 0 16 4" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>Shape</title>
+    <desc>Created with Sketch.</desc>
+    <g id="C-Flow-Control-panel" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-18" transform="translate(-219.000000, -22.000000)" fill="#000000" fill-rule="nonzero">
+            <g id="Group-26">
+                <path d="M231,24 C231,22.8954305 231.895431,22 233,22 C234.104569,22 235,22.8954305 235,24 C235,25.1045695 234.104569,26 233,26 C231.895431,26 231,25.1045695 231,24 M225,24 C225,22.8954305 225.895431,22 227,22 C228.104569,22 229,22.8954305 229,24 C229,25.1045695 228.104569,26 227,26 C225.895431,26 225,25.1045695 225,24 M219,24 C219,22.8954305 219.895431,22 221,22 C222.104569,22 223,22.8954305 223,24 C223,25.1045695 222.104569,26 221,26 C219.895431,26 219,25.1045695 219,24 Z" id="Shape"></path>
+            </g>
+        </g>
+    </g>
+</svg>

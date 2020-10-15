@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="14px" height="18px" viewBox="0 0 14 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>delete-outline</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Create-Cluster-Project" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.520851">
+        <g id="Cluster-Project---05-Create-Project---phases-added" transform="translate(-916.000000, -355.000000)" fill="#8798AD" fill-rule="nonzero">
+            <g id="Group-4" transform="translate(459.000000, 65.000000)">
+                <g id="Group-5" transform="translate(37.000000, 276.000000)">
+                    <g id="delete-outline" transform="translate(420.000000, 14.000000)">
+                        <path d="M1,16 C1,17.1045695 1.8954305,18 3,18 L11,18 C12.1045695,18 13,17.1045695 13,16 L13,4 L1,4 L1,16 M3,6 L11,6 L11,16 L3,16 L3,6 M10.5,1 L9.5,0 L4.5,0 L3.5,1 L0,1 L0,3 L14,3 L14,1 L10.5,1 Z" id="Shape"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

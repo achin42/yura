@@ -1,0 +1,17 @@
+.has-error .select2-container--focus .select2-selection, 
+.has-error .select2-container .select2-selection,
+.has-error .select2-container .select2-selection { background: #FAEDEC; border: 1px solid #d71b29;}
+.has-error input,
+.has-error select,
+.has-error textarea,
+.has-danger-field {
+    background: #FAEDEC;
+    border-bottom: 1px solid #d71b29 !important;
+    padding-right: calc(1.5em + 1.3rem);
+    background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' fill='%23fd397a' viewBox='-2 -2 7 7'%3e%3cpath stroke='%23fd397a' d='M0 0l3 3m0-3L0 3'/%3e%3ccircle r='.5'/%3e%3ccircle cx='3' r='.5'/%3e%3ccircle cy='3' r='.5'/%3e%3ccircle cx='3' cy='3' r='.5'/%3e%3c/svg%3E");
+    /*background-image: url("cancel_form.png");*/
+    background-repeat: no-repeat;
+    background-position: center right calc(0.375em + 0.325rem);
+    background-size: calc(0.75em + 0.65rem) calc(0.75em + 0.65rem);
+}
+.btn-border-and-padding {padding: 8px 25px !important;line-height: 18px !important;}
